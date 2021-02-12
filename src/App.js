@@ -8,15 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
-          It's time to start my own project
         </p>
       </header>
     </div>
